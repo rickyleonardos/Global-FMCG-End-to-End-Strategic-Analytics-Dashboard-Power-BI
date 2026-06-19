@@ -21,25 +21,25 @@ Untuk mengatasi masalah tersebut, proyek end-to-end business intelligence ini di
 
 * Page 1: Executive Sales & Profitability Overview
   
-- Performa Keuangan Makro: Perusahaan mencetak Total Net Sales sebesar 458.89M dengan profitabilitas yang sangat sehat, mencatat Gross Profit senilai 454.05M dan rata-rata profit margin stabil di angka 39%.  
-- Peta Kekuatan Regional: Italia (137.19M) dan Spanyol (105.17M) keluar sebagai pangsa pasar terbesar yang menggerakkan mayoritas pendapatan global.  
-- Analisis Multi-Channel: Melalui visualisasi small multiples, performa penjualan kategori produk berhasil dipetakan secara komparatif di tiga jalur distribusi utama (E-commerce, Hypermarket, dan Supermarket).
+1. Performa Keuangan Makro: Perusahaan mencetak Total Net Sales sebesar 458.89M dengan profitabilitas yang sangat sehat, mencatat Gross Profit senilai 454.05M dan rata-rata profit margin stabil di angka 39%.  
+2. Peta Kekuatan Regional: Italia (137.19M) dan Spanyol (105.17M) keluar sebagai pangsa pasar terbesar yang menggerakkan mayoritas pendapatan global.  
+3. Analisis Multi-Channel: Melalui visualisasi small multiples, performa penjualan kategori produk berhasil dipetakan secara komparatif di tiga jalur distribusi utama (E-commerce, Hypermarket, dan Supermarket).
   
 * Page 2: Marketing Effectiveness & Weather-Driven Demand Analytics
   
-- Efisiensi Promosi: Kampanye pemasaran terbukti efektif di mana Promo Sales Contribution menyumbang 10.43% dari total volume penjualan dengan pemberian rata-rata diskon yang sangat terkontrol di angka 1.49%.
-- Analisis Perilaku Konsumen: Melalui Weather Sensitivity Analysis dan matriks pola belanja, terdeteksi adanya fluktuasi permintaan yang sensitif terhadap perubahan suhu serta lonjakan masif pada Holiday & Weekend Shopping Patterns.
+1. Efisiensi Promosi: Kampanye pemasaran terbukti efektif di mana Promo Sales Contribution menyumbang 10.43% dari total volume penjualan dengan pemberian rata-rata diskon yang sangat terkontrol di angka 1.49%.
+2. Analisis Perilaku Konsumen: Melalui Weather Sensitivity Analysis dan matriks pola belanja, terdeteksi adanya fluktuasi permintaan yang sensitif terhadap perubahan suhu serta lonjakan masif pada Holiday & Weekend Shopping Patterns.
   
 * Page 3: Product Portfolio & Financial Profitability Analytics
   
-- Roda Penggerak Profit: Kategori Snacks menjadi kontributor laba tertinggi (Top Category by Profit) dengan menghasilkan keuntungan bersih 47.61M dari total nilai penjualan 125.26M (Margin Kontribusi: 38.01%).
-- Penyebaran Laba Kota: Berdasarkan analisis tren bulanan, margin profitabilitas perusahaan terkendali ketat di angka 38.53% secara akumulatif lintas kota-kota besar seperti Berlin, Rome, dan Barcelona.  
+1. Roda Penggerak Profit: Kategori Snacks menjadi kontributor laba tertinggi (Top Category by Profit) dengan menghasilkan keuntungan bersih 47.61M dari total nilai penjualan 125.26M (Margin Kontribusi: 38.01%).
+2. Penyebaran Laba Kota: Berdasarkan analisis tren bulanan, margin profitabilitas perusahaan terkendali ketat di angka 38.53% secara akumulatif lintas kota-kota besar seperti Berlin, Rome, dan Barcelona.  
 
 * Page 4: Supply Chain Operations & Inventory Health Diagnostics
   
-- Efisiensi Logistik: Risiko kehilangan momentum penjualan akibat kekosongan stok berhasil ditekan rendah dengan Stock-out Rate hanya sebesar 3.01%.
-- Kinerja Vendor: Kelancaran operasional ini didukung oleh performa pengiriman pemasok yang responsif dengan Average Lead Time sepanjang 6.50 hari.
-- Keseimbangan Inventori: Grafik Monthly Inventory Balance menunjukkan keselarasan yang presisi antara tingkat ketersediaan stok fisik gudang (Stock on Hand) dengan kecepatan produk keluar (Units Sold).  4. Strategic Recommendations
+1. Efisiensi Logistik: Risiko kehilangan momentum penjualan akibat kekosongan stok berhasil ditekan rendah dengan Stock-out Rate hanya sebesar 3.01%.
+2. Kinerja Vendor: Kelancaran operasional ini didukung oleh performa pengiriman pemasok yang responsif dengan Average Lead Time sepanjang 6.50 hari.
+3. Keseimbangan Inventori: Grafik Monthly Inventory Balance menunjukkan keselarasan yang presisi antara tingkat ketersediaan stok fisik gudang (Stock on Hand) dengan kecepatan produk keluar (Units Sold).  4. Strategic Recommendations
 
 ## Strategic Recommendations
 
